@@ -14,7 +14,7 @@
 
 - **Languages**: 
   ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-  ![C#]([https://img.icons8.com/color/48/000000/c-sharp.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC_Sharp_%2528programming_language%2529&psig=AOvVaw0ymVM2aylttEfIhZzjNCFf&ust=1730474577402000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiYqab2uIkDFQAAAAAdAAAAABAE)) C#
+   C#
 
 - **Backend Tech**: 
     ASP.NET Core
