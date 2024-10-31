@@ -5,7 +5,7 @@
 **Passionate about DevOps and backend development, with a keen interest in data engineering. Aiming to create efficient, scalable solutions that leverage modern tools and technologies**
 
 ✉️ [bkamesh2003@gmail.com](mailto:bkamesh2003@gmail.com)  
-🔗 [LinkedIn](#) | [Portfolio](https://bkamesh.github.io/Portfolio/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/kameshb2003) | [Portfolio](https://bkamesh.github.io/Portfolio/) 
 
 ---
 
