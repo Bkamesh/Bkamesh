@@ -1,9 +1,14 @@
 # Hi there, I'm Kamesh Balaji 👋
 
+<!-- Running Designation -->
+<a href="https://bkamesh.github.io/portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=A476FF&background=00000000&center=false&vCenter=true&width=550&lines=Data+Engineer;Real-Time+CDC+Architect;Kafka+%26+Debezium+Pipelines;Streaming+Lakehouse+Engineer;dbt+%26+Redshift+Analytics;Airflow+%26+Python+Automation;HL7+FHIR+Healthcare+Platforms" alt="Designation Typing SVG" />
+</a>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/kameshb2003/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://bkamesh.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://bkamesh.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:kamesh.balaji110803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 🚀 Professional Summary
@@ -12,6 +17,11 @@ Data Engineer experienced in building real-time CDC pipelines and multi-region d
 ---
 
 ### 🛠️ Core Competencies
+
+<!-- Running Skills -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=900&color=38BDF8&background=00000000&center=false&vCenter=true&width=550&lines=Core+Stack:+Kafka+%E2%80%A2+Debezium+%E2%80%A2+Airflow+%E2%80%A2+dbt;Core+Stack:+Python+%E2%80%A2+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Redshift;Core+Stack:+Flink+%E2%80%A2+Iceberg+%E2%80%A2+Paimon+%E2%80%A2+Trino;Core+Stack:+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+AWS+%E2%80%A2+Grafana" alt="Skills Typing SVG" />
+</p>
 
 ## **Languages & Frameworks**
 <p align="left">
@@ -66,7 +76,7 @@ Data Engineer experienced in building real-time CDC pipelines and multi-region d
 ### 💼 Professional Experience
 
 #### **Aravind Eye Care System — Aravind Eye Hospital**
-**Associate Engineer IT** (*June 2024 – Present*) | **Intern** (*Feb 2024 – May 2024*)
+**Data Engineer** (*June 2024 – Present*) | **Intern** (*Feb 2024 – May 2024*)
 
 * Designed and implemented multi-region CDC pipelines using Kafka and Debezium to enable reliable data replication across distributed systems.
 * Developed asynchronous Python consumers to ensure event ordering and maintain referential integrity during data ingestion.
