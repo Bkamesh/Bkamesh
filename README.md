@@ -1,8 +1,7 @@
 # Hi there, I'm Kamesh Balaji 👋
 
-<!-- Running Designation -->
 <a href="https://bkamesh.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=A476FF&background=00000000&center=false&vCenter=true&width=550&lines=Data+Engineer;Real-Time+CDC+Architect;Kafka+%26+Debezium+Pipelines;Streaming+Lakehouse+Engineer;dbt+%26+Redshift+Analytics;Airflow+%26+Python+Automation;HL7+FHIR+Healthcare+Platforms" alt="Designation Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=A476FF&background=00000000&center=false&vCenter=true&width=750&lines=Data+Engineer+building+scalable+pipelines;Building+reliable+real-time+data+systems;Engineering+resilient+data+architectures;Designing+distributed+data+pipelines;Automating+data+integration+workflows" alt="Data Engineering Taglines" />
 </a>
 
 <p align="left">
